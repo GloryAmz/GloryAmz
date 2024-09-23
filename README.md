@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning SQL, Python, Excel
 - 💞️ I’m looking to collaborate on data analytics projects, dashboards, or data visualizations
 - 📫 How to reach me www.linkedin.com/in/chimamaka-ogbuagu-9b3848277
+- ⚡ Fun fact: I love discovering patterns in data and I'm a big fan of problem-solving!
+
+
   
 
 <!---
